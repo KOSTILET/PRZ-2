@@ -14,3 +14,4 @@ PRZ-2
 12. su user-{Kostomakhin.a.a}
 13. touch /home/super-{Kostomakhin.a.a}/test1.txt
 ![prz-2](https://github.com/KOSTILET/PRZ-2/assets/64083435/c8c97de9-7ea5-45af-bbb3-051b6dde1d4d)
+![Снимок экрана 2023-10-08 112738](https://github.com/KOSTILET/PRZ-2/assets/64083435/cde2bff7-0b48-42b6-9785-55a5704769c2)
