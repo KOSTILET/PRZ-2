@@ -13,3 +13,4 @@ PRZ-2
 11. chmod 770 /home/super-{Kostomakhin.a.a}
 12. su user-{Kostomakhin.a.a}
 13. touch /home/super-{Kostomakhin.a.a}/test1.txt
+![prz-2](https://github.com/KOSTILET/PRZ-2/assets/64083435/c8c97de9-7ea5-45af-bbb3-051b6dde1d4d)
